@@ -1,0 +1,16 @@
+print("===== EX 01 =====")
+nome = input("Nome : ")
+print("Ola, " + nome + "! Tudo bem?")
+
+print()
+print("===== EX 02 =====")
+dia = input("Dia: ")
+mes = input("Mes: ")
+ano = input("Ano: ")
+print("Nasceu em " + dia + "/" + mes + "/" + ano + ".")
+
+print()
+print("===== EX 03 =====")
+num1 = int(input("Primeiro numero = "))
+num2 = int(input("Segundo numero = "))
+print('Resultado:', num1 + num2)
